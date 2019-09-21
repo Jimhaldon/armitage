@@ -1,16 +1,15 @@
-This process was executed on BackTrack Linux. I have no concern, desire,
-motivation, care, or need to make this work on Windows.
+This process was executed on Linux. I have no motivation to make this work on Windows yet.
 
 Requirements:
 
-1. Java 1.6.0+
-2. Apache Ant (http://ant.apache.org I think)
+1. Java 1.8.0+
+2. Command Line of some sort
 
 To build this code:
 
-./package.sh
+./gradlew clean build
 
 To run it (after compiling):
 
-./run.sh
+//todo get jar output path and set run command
 
