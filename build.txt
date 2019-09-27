@@ -1,9 +1,9 @@
-This process was executed on Linux. I have no motivation to make this work on Windows yet.
+This will be tested on windows and linux as I have access to both.
 
 Requirements:
 
 1. Java 1.8.0+
-2. Command Line of some sort
+2. Console of some sort
 
 To build this code:
 
