@@ -7,7 +7,7 @@ plugins {
     kotlin("jvm") version "1.3.50"
 }
 
-group = "com.wavProductions.www"
+group = "com.wavproductions.www"
 version = "0.1-SNAPSHOT"
 
 repositories {
